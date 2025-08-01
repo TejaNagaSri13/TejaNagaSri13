@@ -1,82 +1,77 @@
 # 👩‍💻 Kola Teja Naga Sri
 
-**Aspiring Web Developer** | B.Tech Data Science (2026)  
-📍 Tanuku, Andhra Pradesh, India  
-📧 [tejanagasri13@gmail.com](mailto:tejanagasri13@gmail.com)  
-🔗 [GitHub](https://github.com/TejaNagaSri13) | [LinkedIn](https://www.linkedin.com/in/teja-nagasri-kola-27a752280)
+📧 **Email:** [tejanagasri13@gmail.com](mailto:tejanagasri13@gmail.com)  
+📱 **Phone:** 9390166434  
+🔗 **GitHub:** [TejaNagaSri13](https://github.com/TejaNagaSri13)  
+🔗 **LinkedIn:** [teja-nagasri-kola](https://www.linkedin.com/in/teja-nagasri-kola-27a752280)
 
 ---
 
 ## 🎯 Objective
-Aspiring Web Developer with strong programming and analytical skills. Seeking opportunities to apply technical knowledge, gain practical experience, and contribute to impactful projects in a forward-thinking organization.
+
+Motivated and detail-oriented engineering student with strong programming and analytical skills.  
+Eager to apply knowledge in both data science and web development to contribute meaningfully in a dynamic and growth-driven environment.
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech (Data Science)**  
-  Sasi Institute of Technology and Engineering (2026) – 84%
-
-- **Intermediate (MPC)**  
-  Sasi Junior College, Tanuku (2022) – 93.5%
-
-- **SSC**  
-  Montessori School, Tanuku (2020) – 93.5%
+- **B.Tech in Data Science**, Sasi Institute of Technology and Engineering (2022–2026) – CGPA: 8.4  
+- **Intermediate (MPC)**, Sasi Junior College, Tanuku (2020–2022) – Percentage: 93.5%  
+- **SSC**, Montessori School, Tanuku (2019–2020) – Percentage: 93.5%
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
-- **Languages:** C, Python, HTML, CSS, Basics of JavaScript  
-- **Libraries/Frameworks:** NumPy, Pandas  
+- **Languages:** Python, C, R, HTML, CSS, JavaScript (Basics)  
+- **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn  
 - **Databases:** SQL, MongoDB  
-- **Tools:** GitHub, Google Colab, VS Code
+- **Tools:** GitHub, Google Colab, VS Code, MS Excel, Tableau  
+- **Web/App:** MERN Stack (Basic), Android Development (Basic)
 
 ---
 
-## 💼 Experiences
+## 📁 Projects
 
-- **Full Stack Developer Intern**  
-  EY Global Delivery Services, AICTE – *Remote* (Feb 2025 – Mar 2025)
-
-- **Android Developer Intern**  
-  India Edu Program – *Remote* (Apr 2024 – Jun 2024)
+- 🔗 [Student Performance Dashboard](https://student-performance-dashboard-peqfkbzw693xzwdrdubvja.streamlit.app/) – Python, Streamlit  
+- 🔗 [Fake News Detector](https://github.com/TejaNagaSri13/fake-news-detector) – Python, NLP, scikit-learn  
+- 🔗 [Recipe Book Website](https://recipebook3.onrender.com/) – MERN Stack  
+- 🔗 [E-Commerce Website](https://rawcdn.githack.com/TejaNagaSri13/Ecommerce/d561851ae96c9e7bd3997bbaae480a4880ec8fe5/flo1.html) – HTML, CSS, JS  
+- 🔗 [Portfolio Website](https://tejanagasri13.github.io/Portfolio/) – HTML, CSS
 
 ---
 
-## 🚀 Projects
+## 👩‍🏫 Internships
 
-- **[Recipe Book Website](https://recipebook3.onrender.com/)**  
-  MERN Stack project with CRUD operations.
-
-- **[E-Commerce Website](https://rawcdn.githack.com/TejaNagaSri13/Ecommerce/d561851ae96c9e7bd3997bbaae480a4880ec8fe5/flo1.html)**  
-  Responsive website with smooth navigation and shopping cart.
-
-- **[Personal Portfolio Website](https://tejanagasri13.github.io/Portfolio/)**  
-  HTML/CSS based portfolio showcasing my skills and work.
+- **Data Science Intern**, Nyera (May–June 2025) – [Certificate](https://drive.google.com/file/d/12BIjk7652JKX6BkMywyPVLvZzdrksDUY/view?usp=sharing)  
+- **Data Science Intern**, SkillDzire, AICTE (May–June 2025) – [Certificate](https://drive.google.com/file/d/10TZ28y8hwsSdulXodx6kZ-doDYICDKvr/view?usp=sharing)  
+- **Machine Learning Intern**, SkillDzire (July–August 2024) – [Certificate](https://drive.google.com/file/d/11ePCf3eBUwf9E-19fsbc6OAXSiVpx5Vq/view?usp=sharing)  
+- **Full Stack Intern**, EY GDS (Feb–March 2025) – [Certificate](https://drive.google.com/file/d/16GLH86hMg2L_VKRB9Us3X9zQAthKUsBJ/view?usp=sharing)  
+- **Android Developer Intern**, India Edu Program (April–June 2024) – [Certificate](https://drive.google.com/file/d/1J6748p2XCq0HRpuSIlU17z3-AC7Nct8C/view?usp=sharing)
 
 ---
 
 ## 📜 Certifications
 
-- [The Joy of Computing using Python](https://drive.google.com/file/d/14SLS5Q315KuwrtCtqy0P1lkExoFkxud2/view?usp=sharing)  
-- [MongoDB](https://drive.google.com/file/d/1s9mJMDaXBNKt3raaBSdnRVA_9qieiprb/view?usp=sharing)
+- [Python for Data Science](https://drive.google.com/file/d/10PJf0T2BAIrlpbM4QrZ57C2vH5UTKp_5/view?usp=sharing)  
+- [Joy of Computing Python](https://drive.google.com/file/d/14SLS5Q315KuwrtCtqy0P1lkExoFkxud2/view?usp=sharing)  
+- [MongoDB Basics](https://drive.google.com/file/d/1s9mJMDaXBNKt3raaBSdnRVA_9qieiprb/view?usp=sharing)  
+- [MS Excel](https://drive.google.com/file/d/10VEWJNK2XKy1B0wZrb1xE-JGweCqkjpy/view?usp=sharing)  
+- [IBM Data Science Intro](https://drive.google.com/file/d/10R4utYRmQcbYDK_246I1C13jAdVZ1G0l/view?usp=sharing)  
+- [Deloitte Analytics Simulation](https://drive.google.com/file/d/1rHwd7brSzYOnQ4uuoh_NfsAy14IkZEkM/view?usp=sharing)
 
 ---
 
-## 🎯 Co-curricular Activities
+## 🏅 Extracurricular Activities
 
-- Attended workshops/webinars on AI, Web Development, and Data Science  
-- Qualified rounds in Smart India Hackathon (SIH) and MSME Hackathon
+- Participated in workshops/webinars on AI, Web Development, and Data Science  
+- Qualified rounds in Smart India Hackathon (SIH) and MSME Hackathon events
 
 ---
 
-## 🌐 Languages
+## 🌐 Languages Known
 
 - English (Fluent)  
 - Telugu (Native)  
 - Hindi (Reading & Writing)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
